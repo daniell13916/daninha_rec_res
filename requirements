@@ -1,6 +1,0 @@
-fiona==1.8.22
-geopandas==0.12.2
-numpy==1.26.0
-rasterio==1.2.10
-session_info==1.0.0
-shapely==2.0.1
